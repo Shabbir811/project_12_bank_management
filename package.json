@@ -1,0 +1,21 @@
+{
+  "name": "bank_management_by_shabbir",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "shabbir",
+  "license": "ISC",
+  "description": "this is a command line interface program which use object oriented programing to create Bank management program \n in this we use Interface ,classes , functions ,modules like:\n\t*inquirer: to help ask questions from user,\n\tcrypto: to genrate account number,",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
